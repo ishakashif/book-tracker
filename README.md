@@ -13,4 +13,12 @@ A simple and responsive web application that allows users to track books they've
 - 💾 Persistent storage using `localStorage`
 - 🎨 Clean and responsive UI
 
+--- 
+
+## 🛠 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Storage:** Browser `localStorage`
+- **Tooling:** Developed and tested using [Cursor](https://www.cursor.sh/)
+
 ---
