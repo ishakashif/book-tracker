@@ -4,3 +4,29 @@ A simple and responsive web application that allows users to track books they've
 
 --- 
 
+## ✨ Features
+
+- 📖 Add books with title, author, and reading status (Read / To Read)
+- 🔍 View the full list of added books
+- ✏️ Edit book information
+- 🗑️ Delete books from the list
+- 💾 Persistent storage using `localStorage`
+- 🎨 Clean and responsive UI
+
+--- 
+
+## 🛠 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Storage:** Browser `localStorage`
+- **Tooling:** Developed and tested using [Cursor](https://www.cursor.sh/)
+
+--- 
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/yourusername/book-tracker.git
+cd book-tracker
