@@ -21,4 +21,12 @@ A simple and responsive web application that allows users to track books they've
 - **Storage:** Browser `localStorage`
 - **Tooling:** Developed and tested using [Cursor](https://www.cursor.sh/)
 
----
+--- 
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/yourusername/book-tracker.git
+cd book-tracker
