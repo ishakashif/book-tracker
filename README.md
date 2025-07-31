@@ -1,2 +1,6 @@
-# book-tracker
-A simple web-based Book Tracker that lets users add, view, edit, and delete books from their personal reading list. Built with HTML, CSS, and JavaScript, the app stores data in the browser using localStorage (no backend required). Perfect for beginners practicing CRUD operations and exploring AI-assisted development with Cursor.
+# 📚 Book Tracker
+
+A simple and responsive web application that allows users to track books they've read or plan to read. Users can **add**, **view**, **edit**, and **delete** books — implementing full CRUD functionality using only HTML, CSS, and JavaScript. Book data is stored in the browser with `localStorage`, so no backend is needed.
+
+--- 
+
